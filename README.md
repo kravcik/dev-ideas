@@ -8,10 +8,12 @@ Začátky byly šílené. Kód zálohovaný pouze na serveru a pokud na tom prac
 Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouhodobém měřítku je hrozně znát, jestli Vás třeba večer baví číst články o novinkách ve Vaší technologii a podobě. A pak ty věci dokola zkoušet, jestli něco přinesou. Není dobré být dogmatický, ale vyzkoušet co nejvíc různých alternativ.
 
 # Obecné postupy
- - Snadno udržovatelný a robustní kód na nejnovější technologii
+ - Snadno udržovatelný a robustní kód na nejnovější technologii (všechy aplikace běžící na nejnovějších verzích technologií `n-1` patch verze)
  - Společné moduly (uživatelský modul) vyčlené do samostatných celků
  - Dodržování principů usnadňující vývoj (agile, waterfall, mvc, DI)
-
+ - Zastupitelnost a čitelný kód pro celý tým, dodržování coding standard a best-practise
+ - Snadné zaškolení nováčků, vše dokumentované a žádný legacy kód (případně ošetřený unit testy)
+ - DevOps přes automatizované testování, statické analýzy, reporting
 
 # Seznam kategorií
 - Jádro (Interní balíčky)
