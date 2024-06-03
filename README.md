@@ -4,9 +4,13 @@ Co by měl splňovat efektivní a dobře fungující vývojový tým? Jaké jsou
 # Historie
 Začátky byly šílené. Kód zálohovaný pouze na serveru a pokud na tom pracovali dva lidé, tak si to navzájem přepisovali. V šablonách podmínky na správné načtení fungující verze jQuery, protože v jednom kontroleru fungovala pouze jedna verze a v jiném jiná.
 
-# Obecné postupy
-Snadno udržovatelný a robustní kód na vývoj, pokud možno na nejnovější technologii.
+# Zk(r)oušená láska
+Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouhodobém měřítku je hrozně znát, jestli Vás třeba večer baví číst články o novinkách ve Vaší technologii a podobě. A pak ty věci dokola zkoušet, jestli něco přinesou. Není dobré být dogmatický, ale vyzkoušet co nejvíc různých alternativ.
 
+# Obecné postupy
+ - Snadno udržovatelný a robustní kód na nejnovější technologii
+ - Společné moduly (uživatelský modul) vyčlené do samostatných celků
+ - Dodržování principů usnadňující vývoj (agile, waterfall, mvc, DI)
 
 
 # Seznam kategorií
