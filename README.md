@@ -16,6 +16,7 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
  - Zastupitelnost a čitelný kód pro celý tým, dodržování coding standard a best-practise
  - Snadné zaškolení nováčků, vše dokumentované a žádný legacy kód (případně ošetřený unit testy)
  - DevOps přes automatizované testování, statické analýzy, reporting
+ - Bezpečnost je automatická (peneterační testy, aktualizace dle CVE)
 
 # Seznam kategorií
 - Jádro (Interní balíčky)
