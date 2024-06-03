@@ -43,6 +43,7 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 - Logování chyb
 - Messaging
 - AI
+- Lint šablon
 
 
 
