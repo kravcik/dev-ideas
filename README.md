@@ -1,5 +1,5 @@
 # Úvod
-Co by měl splňovat efektivní a dobře fungující vývojový tým? Jaké jsou standardy ve středně velkém vývojovém týmu do 10 lidí, který vyvíjí velké aplikace pro nadnárodní firmy?
+Co by měl splňovat efektivní a dobře fungující vývojový tým? Jaké jsou standardy ve středně velkém vývojovém týmu do 10 lidí, který vyvíjí velké aplikace pro nadnárodní firmy? Aplikací kolem osmdesáti.
 
 > 🚩 Disclaimer: Tohle není finální verze a pravděpodobně nikdy nebude, příští dva měsíce se k tomu plánuji několikrát vrátit a zároveň schválit několik PR od odstatních vývojářů.
 
@@ -18,32 +18,45 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
  - DevOps přes automatizované testování, statické analýzy, reporting
  - Bezpečnost je automatická (peneterační testy, aktualizace dle CVE)
 
-# Seznam kategorií
-- Jádro (Interní balíčky)
-- Zaškolení lidí
-- Docker
-- Vývojové prostředí
-- IDE
-- Coding standard
-- Statická analýza (komplice)
-- Health check
-- CI/CD
-- CVE
-- Unit testy
-- Verzování
+# Základy
+- Zaškolení lidí, fórum, vzdělávání
 - Procesy (ORM - GRUF)
-- Code review
-- Migrační příručky (rector)
 - Databáze & databázová vrstva
-- Assety (NPM)
-- Školení, fórum, vzdělávání
-- Láska a amatérismus
-- Composer
-- Profiler
-- Logování chyb
 - Messaging
+  
+## Balíčkovací systém
+- Správa závislostí hlavně kvůli kompabilitě a průběžné aktualizaci (NPM pro věřejnou část, PHP Composer pro kód).
+- Interní balíčky (například uživatelský modul, který dostává pravidelné aktualizace) v případě desítek aplikací
+
+## IDE
+- Kvalitní [IDE](https://cs.wikipedia.org/wiki/V%C3%BDvojov%C3%A9_prost%C5%99ed%C3%AD) je základ
+
+## Verzování
+- Verzování
+
+# Vývoj
+- Vývojové prostředí
+- Docker
+- XAMPP
+- Coding standard
+- Statická analýza
+- Unit testy
+- Profiler
+- Code review
+- Šablonovací systém
+
+# Údržba
+- Logování chyb
+- (CI/CD)
+- Health check
+- Migrační příručky (rector)
+  
+# Bezpečnost
+- CVE
+
+# Ostatní
 - AI
-- Lint šablon
+
 
 
 
