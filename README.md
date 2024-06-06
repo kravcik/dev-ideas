@@ -47,6 +47,8 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 - Profiler
 - Code review
 - Šablonovací systém
+#### Vytvoření projektu
+V composeru otázky a nastování projektu
 
 # Údržba
 - Logování chyb
