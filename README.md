@@ -1,7 +1,7 @@
 # Úvod
 Co by měl splňovat efektivní a dobře fungující vývojový tým? Jaké jsou standardy ve středně velkém vývojovém týmu do 10 lidí, který vyvíjí velký počet (vyšší desítky) aplikací také pro nadnárodní firmy? 
 
-Je to hodně široké téma a abstrahovat deset let do několika odrážek není snadné, každý bod bych rád následně rozpracoval do článku.
+Je to hodně široké téma a abstrahovat patnáct let zkušeností do několika odrážek není snadné, každý bod bych rád následně rozpracoval do článku.
 
 > 🚩 Disclaimer: Tohle není finální verze a pravděpodobně nikdy nebude, příští dva měsíce se k tomu plánuji několikrát vrátit a zároveň schválit několik PR od odstatních vývojářů.
 
