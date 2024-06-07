@@ -60,6 +60,7 @@ V composeru otázky a nastování projektu
 # Bezpečnost
 - CVE
 - Šifrování dat
+- Rozdělení configů (local, server, config)
 
 # Ostatní
 - AI
