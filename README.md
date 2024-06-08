@@ -24,19 +24,14 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 
 # Základy
 - Zaškolení lidí, fórum, vzdělávání
-- Ticketovací systém
+- Řízení vývoje, ticketovací systém
 - Procesy (ORM - GRUF)
-- Databáze & databázová vrstva
-- Messaging
+- Vrstvy aplikace (databáze apod.)
   
 #### Balíčkovací systém
 - Správa závislostí hlavně kvůli kompabilitě a průběžné aktualizaci (NPM pro věřejnou část, PHP Composer pro kód).
 - Interní balíčky (například uživatelský modul, který dostává pravidelné aktualizace) v případě desítek aplikací
-
-#### IDE
-- Kvalitní [IDE](https://cs.wikipedia.org/wiki/V%C3%BDvojov%C3%A9_prost%C5%99ed%C3%AD) je základ
-
-#### Verzování
+- Kvalitní IDE
 - Verzování
 
 # Vývoj
@@ -49,8 +44,6 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 - Profiler
 - Code review
 - Šablonovací systém
-#### Vytvoření projektu
-V composeru otázky a nastování projektu
 
 # Údržba
 - Logování chyb
@@ -68,7 +61,8 @@ V composeru otázky a nastování projektu
 - AI
 - Open source
 - Fórum a články
-
+- Messaging
+- Vytvoření projektu - composeru otázky a nastování projektu
 
 
 
