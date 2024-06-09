@@ -23,7 +23,7 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 > ⬇️ A níže záčíná ta pravá džungle, která by to měla obsáhnout a vysvětlit těch pár vět výše
 
 # Základy
-- Zaškolení lidí, fórum, vzdělávání
+- Zaškolení lidí, fórum, (samo)vzdělávání
 - Řízení vývoje, ticketovací systém
 - Procesy (ORM - GRUF)
 - Vrstvy aplikace (databáze apod.)
@@ -56,6 +56,8 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 - CVE
 - Šifrování dat
 - Rozdělení configů (local, server, config)
+- Validace uživatelských vstupů
+- Správa rolí
 
 # Ostatní
 - AI
