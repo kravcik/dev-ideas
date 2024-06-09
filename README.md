@@ -58,6 +58,7 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 - Rozdělení configů (local, server, config)
 - Validace uživatelských vstupů
 - Správa rolí
+- Správné escapování výstupu
 
 # Ostatní
 - AI
