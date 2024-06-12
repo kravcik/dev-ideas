@@ -13,19 +13,19 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 
 # Obecné postupy
  - Snadno udržovatelný a robustní kód na nejnovější možné technologii
- - Společné moduly vyčlené do samostatných celků spravované přes privátní balíčky
- - Dodržování principů usnadňující vývoj (agile, scrum, waterfall, MVC, DI)
- - Zastupitelnost a čitelný kód pro celý tým, dodržování coding standard a best-practise
- - Snadné zaškolení nováčků, vše dokumentované a ošetřený unit testy
+ - Společné moduly vyčlené do samostatných celků spravované přes privátní balíčky (KISS, DRY)
+ - Dodržování principů usnadňující vývoj (agile, scrum, waterfall, rozdělení rolí aka odstínění programátorů od bussiness logiky)
+ - Zastupitelnost a čitelný kód pro celý tým, dodržování coding standard
+ - Snadné zaškolení nováčků (list co musí zaškolený člověk splňovat pod době X), vše dokumentované a ošetřené unit testy
  - DevOps přes automatizované testování, statické analýzy, reporting
- - Bezpečnost je automatická (peneterační testy, aktualizace dle CVE)
+ - Bezpečnost! (peneterační testy, CVE, aktualizace balíčků, správa serverů je u nás externí)
 
 > ⬇️ A níže záčíná ta pravá džungle, která by to měla obsáhnout a vysvětlit těch pár vět výše
 
 # Základy
-- Zaškolení lidí, fórum, vzdělávání
+- (Samo)zaškolení lidí, fórum, vzdělávání, zdravý kolektiv
 - Řízení vývoje, ticketovací systém
-- Procesy (ORM - GRUF)
+- Procesy (ORM, GRUF aka CRUD s Grido a Formulářem - nadstavba zrychlující vývoj)
 - Vrstvy aplikace (databáze apod.)
   
 #### Balíčkovací systém
@@ -61,8 +61,8 @@ Jakákoliv práce je strašně snadná, pokud ji milujete a baví Vás. V dlouho
 - AI
 - Open source
 - Fórum a články
-- Messaging
-- Vytvoření projektu - composeru otázky a nastování projektu
+- Message broker (RabbitMQ)
+- Vytvoření projektu - (cmd provede základní vytvořením projektu - chcete crony, rabbity "press yes")
 
 
 
